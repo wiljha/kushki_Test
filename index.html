@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+      <title>TestKushki</title>
+      <script language="JavaScript" type="text/javascript" src="https://cdn.kushkipagos.com/kushki-checkout.js"/>
+      </script>
+     <!--<link rel="stylesheet" type="text/css" href="assets/css/stylesheet.css">-->
+   </head>
+   <body>
+
+            <script src="https://cdn.kushkipagos.com/kushki-checkout.js"></script>
+            <form id="payment-form" action="Card Subscriptions" method="post">
+            <input type="hidden" name="cart_id" value="123">
+            </form>
+
+            <script type="text/javascript">
+                var kushki = new KushkiCheckout({
+                    form: "payment-form",
+                    merchant_id: "45b20ba933ba4c0ea9b847dbd9885a51", // Reemplaza esto por tu public merchant id
+                    amount: "15",
+                    currency: "USD",
+                    payment_methods:["credit-card"], // Podrás habilitar más medios de pago.
+                    is_subscription: true,
+                    inTestEnvironment: true, // Configurado en modo prueba
+                    regional:false // Optional
+                });
+
+
+            </script>
+
+   </body>
