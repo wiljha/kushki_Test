@@ -1,4 +1,4 @@
-# kushki_Test
+# Kushki_Test
 
 This repository contains a Kushki payment flow and the secure fields form to articulate the API in order to simulate a payment gateway flow. 
 I will present json code to provide request and response for each transaction estatement and an index file to test the payment integration.  
