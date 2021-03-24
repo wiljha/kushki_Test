@@ -1,0 +1,35 @@
+{
+    "details": {
+        "requestAmount": 600,
+        "acquirerBank": "Banco peru",
+        "approvalCode": "000000",
+        "approvedTransactionAmount": 600,
+        "binCard": "424242",
+        "binInfo": {
+            "type": "credit"
+        },
+        "cardHolderName": "Pagos Extra",
+        "created": 1616621743589,
+        "currencyCode": "PEN",
+        "fullResponse": true,
+        "iceValue": 0,
+        "ivaValue": 0,
+        "lastFourDigits": "4242",
+        "merchantId": "20000000107287986000",
+        "merchantName": "MAWIS",
+        "paymentBrand": "VISA",
+        "processorBankName": null,
+        "processorId": "1000000890414741019616165298481",
+        "processorName": "VisaNet Processor",
+        "responseCode": "000",
+        "subtotalIva": 0,
+        "subtotalIva0": 600,
+        "syncMode": "online",
+        "transactionId": "1616621838392918643",
+        "transactionReference": "9b397ebe-3482-47d0-b6fd-84a874ef16d5",
+        "transactionStatus": "INITIALIZED",
+        "transactionType": "VOID"
+    },
+    "ticketNumber": "661616621838393426",
+    "transactionReference": "9b397ebe-3482-47d0-b6fd-84a874ef16d5"
+}

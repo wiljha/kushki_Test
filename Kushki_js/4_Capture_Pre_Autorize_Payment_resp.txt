@@ -1,0 +1,34 @@
+{
+    "ticketNumber": "261134460352238708",
+    "details": {
+        "approvedTransactionAmount": 600,
+        "requestAmount": 600,
+        "responseCode": "000",
+        "approvalCode": "000000",
+        "syncMode": "online",
+        "merchantId": "20000000107287986000",
+        "processorId": "1000000890414741019616165298481",
+        "cardHolderName": "Pagos Extra",
+        "binCard": "424242",
+        "processorName": "VisaNet Processor",
+        "processorBankName": "",
+        "transactionId": "310649886153774159",
+        "lastFourDigits": "4242",
+        "binInfo": {
+            "type": "credit"
+        },
+        "paymentBrand": "VISA",
+        "subtotalIva": 0,
+        "subtotalIva0": 600,
+        "currencyCode": "PEN",
+        "ivaValue": 0,
+        "cardCountry": "United States of America",
+        "created": 1616621639,
+        "fullResponse": true,
+        "transactionStatus": "APPROVAL",
+        "transactionType": "CAPTURE",
+        "preauthTransactionReference": "47470384-3ae6-45e9-a3ff-a86cf9bd2439",
+        "acquirerBank": "Banco peru"
+    },
+    "transactionReference": "9b397ebe-3482-47d0-b6fd-84a874ef16d5"
+}

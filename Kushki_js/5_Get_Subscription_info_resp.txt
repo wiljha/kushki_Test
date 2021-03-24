@@ -1,0 +1,38 @@
+{
+    "amount": {
+        "subtotalIva0": 0,
+        "ice": 0,
+        "currency": "PEN",
+        "iva": 0.14,
+        "subtotalIva": 1
+    },
+    "bin": "424242",
+    "cardHolderName": "Pagos Extra",
+    "cardType": "credit",
+    "contactDetails": {
+        "firstName": "Carlos",
+        "lastName": "Perez",
+        "phoneNumber": "+5717008961",
+        "documentType": "CC",
+        "documentNumber": "1010175134",
+        "email": "carlos.p@kushki.com"
+    },
+    "created": 1616621639,
+    "lastFourDigits": "4242",
+    "maskedCardNumber": "424242XXXXXX4242",
+    "merchantId": "20000000107287986000",
+    "metadata": {
+        "plan": {
+            "fitness": {
+                "rumba": "include",
+                "pool": "include",
+                "cardio": "include"
+            }
+        }
+    },
+    "paymentBrand": "VISA",
+    "periodicity": "monthly",
+    "planName": "Basico",
+    "startDate": 1616630400,
+    "subscriptionId": "1616621639748000"
+}

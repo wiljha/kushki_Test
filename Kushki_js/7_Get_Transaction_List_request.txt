@@ -1,0 +1,2 @@
+GET https://api-uat.kushkipagos.com/analytics/v1/transactions-list?from=2021-03-24T10:00:00&to=2021-03-25T22:00:00&limit=2
+

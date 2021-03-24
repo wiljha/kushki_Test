@@ -1,0 +1,12 @@
+DELETE https://api-uat.kushkipagos.com/v1/charges/{{ticketNumber1}}
+
+{
+  "fullResponse": true,
+  "amount": {
+    "subtotalIva": 600,
+    "subtotalIva0": 0,
+    "ice": 0,
+    "iva": 0,
+    "currency": "PEN"
+  }
+}

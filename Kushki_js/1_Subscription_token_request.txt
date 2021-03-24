@@ -1,0 +1,12 @@
+Post https://api-uat.kushkipagos.com/subscriptions/v1/card/tokens
+
+{
+  "card": {
+    "name": "Pagos Extra",
+    "number": "4242424242424242",
+    "expiryMonth": "03",
+    "expiryYear": "23",
+    "cvv": "071"
+  },
+  "currency": "PEN"
+}

@@ -1,0 +1,137 @@
+{
+    "total": 13,
+    "data": [
+        {
+            "acquirer_bank": "Banco peru",
+            "approval_code": "000000",
+            "approved_transaction_amount": 600,
+            "bin_card": "424242",
+            "card_holder_name": "Pruebas",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Peru",
+            "created": "2021-03-24T21:02:30.166Z",
+            "credential_alias": "MAWIS",
+            "credential_id": "20659574702449c2a7ee22bf887e2f0d",
+            "currency_code": "PEN",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": null,
+            "iva_value": 0,
+            "last_four_digits": "4242",
+            "merchant_id": "20000000107287986000",
+            "merchant_name": "MAWIS",
+            "metadata": {},
+            "payment_brand": "Visa",
+            "processor_id": "1000000890414741019616165298481",
+            "processor_name": "VisaNet Processor",
+            "processor_transaction_id": "535287",
+            "processor_type": "gateway",
+            "provider": "kushki",
+            "request_amount": 600,
+            "response_code": "000",
+            "response_text": "Transacción aprobada",
+            "subscription_id": "1616619693067000",
+            "subscription_metadata": {
+                "plan": {
+                    "fitness": {
+                        "rumba": "include",
+                        "pool": "include",
+                        "cardio": "include"
+                    }
+                }
+            },
+            "subscription_trigger": "onDemand",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 600,
+            "ticket_number": "916089197237682685",
+            "transaction_id": "522261400240038728",
+            "transaction_reference": "8c6b6711-c849-4f99-9c07-8e91f9b55349",
+            "transaction_status": "APPROVAL",
+            "transaction_type": "PREAUTHORIZATION",
+            "payment_method": "card",
+            "masked_credit_card": "424242XXXXXX4242",
+            "security": {
+                "ip": "54.86.50.139",
+                "user_agent": "PostmanRuntime/7.26.10",
+                "whitelist": false
+            },
+            "card_country_code": "US",
+            "card_country": "United States of America",
+            "string_metadata": "{}"
+        },
+        {
+            "acquirer_bank": "Banco peru",
+            "approval_code": "000000",
+            "approved_transaction_amount": 600,
+            "bin_card": "424242",
+            "card_holder_name": "Pruebas",
+            "card_type": "Credit",
+            "contact_details": {
+                "document_number": "1009283738",
+                "document_type": "CC",
+                "email": "test@test.com",
+                "first_name": "Diego",
+                "last_name": "Cadena",
+                "phone_number": "+593988734644"
+            },
+            "country": "Peru",
+            "created": "2021-03-24T21:05:12.823Z",
+            "credential_alias": "MAWIS",
+            "credential_id": "20659574702449c2a7ee22bf887e2f0d",
+            "currency_code": "PEN",
+            "foreign_card": true,
+            "ice_value": 0,
+            "issuing_bank": null,
+            "iva_value": 0,
+            "last_four_digits": "4242",
+            "merchant_id": "20000000107287986000",
+            "merchant_name": "MAWIS",
+            "metadata": {},
+            "payment_brand": "Visa",
+            "processor_id": "1000000890414741019616165298481",
+            "processor_name": "MC Processor",
+            "processor_transaction_id": "101654",
+            "processor_type": "gateway",
+            "provider": "kushki",
+            "request_amount": 600,
+            "response_code": "000",
+            "response_text": "Transacción aprobada",
+            "subscription_id": "1616619905567000",
+            "subscription_metadata": {
+                "plan": {
+                    "fitness": {
+                        "rumba": "include",
+                        "pool": "include",
+                        "cardio": "include"
+                    }
+                }
+            },
+            "subscription_trigger": "onDemand",
+            "subtotal_iva": 0,
+            "subtotal_iva0": 600,
+            "ticket_number": "304069040554762674",
+            "transaction_id": "459453673287725195",
+            "transaction_reference": "2de5c84b-c17e-4d6e-a068-bfc493dd73a3",
+            "transaction_status": "APPROVAL",
+            "transaction_type": "PREAUTHORIZATION",
+            "payment_method": "card",
+            "masked_credit_card": "424242XXXXXX4242",
+            "security": {
+                "ip": "54.86.50.139",
+                "user_agent": "PostmanRuntime/7.26.10",
+                "whitelist": false
+            },
+            "card_country_code": "US",
+            "card_country": "United States of America",
+            "string_metadata": "{}"
+        }
+    ]
+}

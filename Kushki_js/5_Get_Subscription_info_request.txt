@@ -1,0 +1,1 @@
+GET https://api-uat.kushkipagos.com/subscriptions/v1/card/search/{{subscriptionId}}

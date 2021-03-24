@@ -1,0 +1,32 @@
+POST https://api-uat.kushkipagos.com/subscriptions/v1/card
+
+{
+  "token": "{{token}}",
+  "planName": "Basico",
+  "periodicity": "monthly",
+  "contactDetails": {
+    "documentType": "CC",
+    "documentNumber": "1010175134",
+    "email": "carlos.p@kushki.com",
+    "firstName": "Carlos",
+    "lastName": "Perez",
+    "phoneNumber": "+5717008961"
+  },
+  "amount": {
+    "subtotalIva": 1,
+    "subtotalIva0": 0,
+    "ice": 0,
+    "iva": 0.14,
+    "currency": "PEN"
+  },
+  "startDate": "2021-03-25",
+  "metadata": {
+    "plan": {
+      "fitness": {
+        "cardio": "include",
+        "rumba": "include",
+        "pool": "include"
+      }
+    }
+  }
+}

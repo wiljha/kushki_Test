@@ -1,0 +1,13 @@
+POST https://api-uat.kushkipagos.com/subscriptions/v1/card/{{subscriptionId}}/capture
+
+{
+  "ticketNumber": "{{ticketNumber}}",
+  "amount": {
+    "currency": "PEN",
+    "subtotalIva": 0,
+    "iva": 0,
+    "subtotalIva0": 600,
+    "ice": 0
+  },
+  "fullResponse": true
+}
