@@ -11,7 +11,7 @@ Steps
 5. Share Postman collection.
 
 <body>
-<big><strong> Definitions</strong></big>
+<big><strong> Feedback</strong></big>
 ----------------------------------->
  <div> <b>Onboarding experience </b> was great because this first step to start with your test is very easy and flexible.  The advantage with this process is that you get help from the support team in all the process. When you create your account, you can get different tools to manage different Kushki features, and this tool has a very intuitive management. </div>
  <div> <b>Technical documentation </b> is good despite the huge information volume. The sandbox tool is awesome but it needs more detailed steps to use. Otherwise, some procedures are no clear; for instance, you can get lost with the documentation because the structure is flat and when you have different options you can not distinguish what is option A and option B because titles and numerals are disorganized. Some times examples are no clear because they are not in the correct context. </div>
