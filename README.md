@@ -5,9 +5,9 @@ I will present json code to provide request and response for each transaction es
 
 Steps
 1. Develping payment flow with the following API Calls: * Request a subscription token * Create a subscription * Create a pre-authorize payment * Capture a pre-authorize payment *  Get subscription info * Void a transaction * Get transactions list
-2. Creating cajita pay button page
-3. Definition of tokenization, and Webhook.
-4. Documentation and experience notes
+2. Creating form with Kushki.js
+3. Documentation and experience notes
+4. Definition of tokenization, and Webhook
 5. Share Postman collection.
 
 <body>
